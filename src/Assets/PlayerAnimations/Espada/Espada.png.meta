@@ -1,0 +1,786 @@
+fileFormatVersion: 2
+guid: 961efb38f6c76fc4d9556ddb6fa5d0ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3862064479896713395
+    second: CharacterMovementEspada_0
+  - first:
+      213: 4027399487365858704
+    second: CharacterMovementEspada_1
+  - first:
+      213: 308556835125696814
+    second: CharacterMovementEspada_2
+  - first:
+      213: -6714810696005029806
+    second: CharacterMovementEspada_3
+  - first:
+      213: -993364467076080161
+    second: CharacterMovementEspada_4
+  - first:
+      213: -3127244407805413849
+    second: CharacterMovementEspada_5
+  - first:
+      213: -369210461098738618
+    second: CharacterMovementEspada_6
+  - first:
+      213: 5939752688842101493
+    second: CharacterMovementEspada_7
+  - first:
+      213: 3722417410542829118
+    second: CharacterMovementEspada_8
+  - first:
+      213: -326728419555997157
+    second: CharacterMovementEspada_9
+  - first:
+      213: 142554618602176389
+    second: CharacterMovementEspada_10
+  - first:
+      213: -5621107128084735632
+    second: CharacterMovementEspada_11
+  - first:
+      213: -4505456567031098470
+    second: CharacterMovementEspada_12
+  - first:
+      213: -5849280376654253484
+    second: CharacterMovementEspada_13
+  - first:
+      213: -7268729048614142076
+    second: CharacterMovementEspada_14
+  - first:
+      213: -3402984928734068373
+    second: CharacterMovementEspada_15
+  - first:
+      213: -7112236247090793747
+    second: CharacterMovementEspada_16
+  - first:
+      213: -1464931624714872942
+    second: CharacterMovementEspada_17
+  - first:
+      213: 7521223955916721968
+    second: CharacterMovementEspada_18
+  - first:
+      213: -1802376960428445869
+    second: CharacterMovementEspada_19
+  - first:
+      213: -5853775810735866497
+    second: CharacterMovementEspada_20
+  - first:
+      213: -3995636460538752580
+    second: CharacterMovementEspada_21
+  - first:
+      213: -5235361182215461125
+    second: CharacterMovementEspada_22
+  - first:
+      213: -7062616848220645870
+    second: CharacterMovementEspada_23
+  - first:
+      213: -5937764268318024347
+    second: Espada_0
+  - first:
+      213: 5922292102220516230
+    second: Espada_1
+  - first:
+      213: 7336016491838371822
+    second: Espada_2
+  - first:
+      213: -1961724973534574521
+    second: Espada_3
+  - first:
+      213: 5763773825754385689
+    second: Espada_4
+  - first:
+      213: -5938076479293910547
+    second: Espada_5
+  - first:
+      213: -4097617194905012508
+    second: Espada_6
+  - first:
+      213: 8615475485223510601
+    second: Espada_7
+  - first:
+      213: -760047375017855443
+    second: Espada_8
+  - first:
+      213: -3159677953706836618
+    second: Espada_9
+  - first:
+      213: 3156761216567734937
+    second: Espada_10
+  - first:
+      213: -254307464120106949
+    second: Espada_11
+  - first:
+      213: 3737818790426180367
+    second: Espada_12
+  - first:
+      213: 7284605334287111889
+    second: Espada_13
+  - first:
+      213: -7856604644140332786
+    second: Espada_14
+  - first:
+      213: 2531625913863682592
+    second: Espada_15
+  - first:
+      213: -4549435602557356476
+    second: Espada_16
+  - first:
+      213: 816213054169170350
+    second: Espada_17
+  - first:
+      213: -7899622977296448961
+    second: Espada_18
+  - first:
+      213: 448811262962129179
+    second: Espada_19
+  - first:
+      213: 3746654761955392063
+    second: Espada_20
+  - first:
+      213: 8687710107127835666
+    second: Espada_21
+  - first:
+      213: -1253745331488543890
+    second: Espada_22
+  - first:
+      213: -5290881100255860757
+    second: Espada_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Espada_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.469, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d95ea8bd2d89da0800000000000000
+      internalID: -5937764268318024347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.531, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b84f01a45303250800000000000000
+      internalID: 5922292102220516230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.469, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7fe66a124cec560800000000000000
+      internalID: 7336016491838371822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.531, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748857db78d86c4e0800000000000000
+      internalID: -1961724973534574521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.469, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dc8c9b1c90dff40800000000000000
+      internalID: 5763773825754385689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.531, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1959247e6b79da0800000000000000
+      internalID: -5938076479293910547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.469, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e677201fd65227c0800000000000000
+      internalID: -4097617194905012508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.531, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94265db9e41509770800000000000000
+      internalID: 8615475485223510601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.469, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26b79770f4c375f0800000000000000
+      internalID: -760047375017855443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.531, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dbbac44a19624d0800000000000000
+      internalID: -3159677953706836618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_10
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 63
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.469, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992ff3ae9911fcb20800000000000000
+      internalID: 3156761216567734937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_11
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.531, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30046175b4887cf0800000000000000
+      internalID: -254307464120106949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bf126d2666fd330800000000000000
+      internalID: 3737818790426180367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6591fb4fd181560800000000000000
+      internalID: 7284605334287111889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c455c3bbb7f290800000000000000
+      internalID: -7856604644140332786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ab4040b54222320800000000000000
+      internalID: 2531625913863682592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446bd056c682dd0c0800000000000000
+      internalID: -4549435602557356476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea14ac2c275c35b00800000000000000
+      internalID: 816213054169170350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f324bb291c6ee5290800000000000000
+      internalID: -7899622977296448961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b195d0c377f7a3600800000000000000
+      internalID: 448811262962129179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_20
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a7066c7aacef330800000000000000
+      internalID: 3746654761955392063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cecee1052f09870800000000000000
+      internalID: 8687710107127835666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_22
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.516, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b22dd734dc99ee0800000000000000
+      internalID: -1253745331488543890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Espada_23
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.484, y: 0.437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7eb6eeba30396b0800000000000000
+      internalID: -5290881100255860757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Espada_0: -5937764268318024347
+      Espada_1: 5922292102220516230
+      Espada_10: 3156761216567734937
+      Espada_11: -254307464120106949
+      Espada_12: 3737818790426180367
+      Espada_13: 7284605334287111889
+      Espada_14: -7856604644140332786
+      Espada_15: 2531625913863682592
+      Espada_16: -4549435602557356476
+      Espada_17: 816213054169170350
+      Espada_18: -7899622977296448961
+      Espada_19: 448811262962129179
+      Espada_2: 7336016491838371822
+      Espada_20: 3746654761955392063
+      Espada_21: 8687710107127835666
+      Espada_22: -1253745331488543890
+      Espada_23: -5290881100255860757
+      Espada_3: -1961724973534574521
+      Espada_4: 5763773825754385689
+      Espada_5: -5938076479293910547
+      Espada_6: -4097617194905012508
+      Espada_7: 8615475485223510601
+      Espada_8: -760047375017855443
+      Espada_9: -3159677953706836618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
